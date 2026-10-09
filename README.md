@@ -22,7 +22,7 @@ L'objectif est de mettre en pratique les bases de Python à travers la manipulat
 
 ## 📂 Contenu du dépôt
 
-* `pro.ipynb` : notebook contenant le code Python du projet.
+* `contact manager.ipynb` : notebook contenant le code Python du projet.
 
 ## 🚀 Compétences mises en pratique
 
